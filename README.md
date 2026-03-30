@@ -1,2 +1,2 @@
 # Software-Quality-Assurance-Projects
-Projects that I completed to graduate from the TripleTen Qaulity Assurance Engineering program. 
+In the decomposition file I broke down business requirements into single unit test to confirm each feature was covered. The following EC-BVA file contain the break down of equivalence classes with two boundary value analysis with their own test cases. The web-mobile-API file contain test cases in which I manually tested the Web, mobile applications and back-end to verify of invalid status code violations. The last file is paired with the bug reports file.
